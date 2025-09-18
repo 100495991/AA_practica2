@@ -1,4 +1,4 @@
-readme_content = """# Clustering de Semillas 🌱
+# Clustering de Semillas 🌱
 
 Este proyecto tiene como objetivo aplicar diferentes **técnicas de clustering** sobre un conjunto de datos de semillas para analizar si aparecen agrupaciones significativas y comparar la efectividad de cada método.
 
